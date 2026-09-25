@@ -1,6 +1,6 @@
 # GENJRENG - Basic Guitar Chord Training
 
-![GENJRENG](.\bloon_genjreng.jpg)
+![GENJRENG](./bloon_genjreng.jpg)
 
 GENJRENG is a small Python/Pygame guitar-learning game built for beginners.
 
