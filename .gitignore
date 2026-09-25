@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+ENV/
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
+
+.codeinsight/
+.qodo/
+
+# Local game state
+assets/progress.json
